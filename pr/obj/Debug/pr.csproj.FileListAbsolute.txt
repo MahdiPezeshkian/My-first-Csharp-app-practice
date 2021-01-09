@@ -1,0 +1,13 @@
+C:\Users\mahdii\Documents\SharpDevelop Projects\pr\pr\obj\Debug\pr.csprojResolveAssemblyReference.cache
+C:\Users\mahdii\Documents\SharpDevelop Projects\pr\pr\bin\Debug\pr.exe.config
+C:\Users\mahdii\Documents\SharpDevelop Projects\pr\pr\bin\Debug\pr.exe
+C:\Users\mahdii\Documents\SharpDevelop Projects\pr\pr\bin\Debug\pr.pdb
+C:\Users\mahdii\Documents\SharpDevelop Projects\pr\pr\obj\Debug\pr.exe
+C:\Users\mahdii\Documents\SharpDevelop Projects\pr\pr\obj\Debug\pr.pdb
+C:\Users\Mahdi\Documents\pr\pr\obj\Debug\pr.csprojResolveAssemblyReference.cache
+C:\Users\Mahdi\Documents\pr\pr\obj\Debug\pr.exe
+C:\Users\Mahdi\Documents\pr\pr\obj\Debug\pr.pdb
+C:\Users\Mahdi\Documents\pr\pr\bin\Debug\pr.exe.config
+C:\Users\Mahdi\Documents\pr\pr\bin\Debug\pr.exe
+C:\Users\Mahdi\Documents\pr\pr\bin\Debug\pr.pdb
+C:\Users\Mahdi\Documents\pr\pr\obj\Debug\pr.csproj.CoreCompileInputs.cache
